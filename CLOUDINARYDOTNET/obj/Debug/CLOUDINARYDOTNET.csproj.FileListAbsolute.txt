@@ -1,0 +1,14 @@
+C:\Users\smsi\source\repos\CLOUDINARYDOTNET\CLOUDINARYDOTNET\bin\Debug\CLOUDINARYDOTNET.exe
+C:\Users\smsi\source\repos\CLOUDINARYDOTNET\CLOUDINARYDOTNET\bin\Debug\CLOUDINARYDOTNET.pdb
+C:\Users\smsi\source\repos\CLOUDINARYDOTNET\CLOUDINARYDOTNET\obj\Debug\CLOUDINARYDOTNET.csprojAssemblyReference.cache
+C:\Users\smsi\source\repos\CLOUDINARYDOTNET\CLOUDINARYDOTNET\obj\Debug\CLOUDINARYDOTNET.Form1.resources
+C:\Users\smsi\source\repos\CLOUDINARYDOTNET\CLOUDINARYDOTNET\obj\Debug\CLOUDINARYDOTNET.Properties.Resources.resources
+C:\Users\smsi\source\repos\CLOUDINARYDOTNET\CLOUDINARYDOTNET\obj\Debug\CLOUDINARYDOTNET.csproj.GenerateResource.cache
+C:\Users\smsi\source\repos\CLOUDINARYDOTNET\CLOUDINARYDOTNET\obj\Debug\CLOUDINARYDOTNET.csproj.CoreCompileInputs.cache
+C:\Users\smsi\source\repos\CLOUDINARYDOTNET\CLOUDINARYDOTNET\obj\Debug\CLOUDINARYDOTNET.exe
+C:\Users\smsi\source\repos\CLOUDINARYDOTNET\CLOUDINARYDOTNET\obj\Debug\CLOUDINARYDOTNET.pdb
+C:\Users\smsi\source\repos\CLOUDINARYDOTNET\CLOUDINARYDOTNET\bin\Debug\MySql.Data.dll
+C:\Users\smsi\source\repos\CLOUDINARYDOTNET\CLOUDINARYDOTNET\obj\Debug\CLOUDINARYDOTNET.csproj.CopyComplete
+C:\Users\smsi\source\repos\CLOUDINARYDOTNET\CLOUDINARYDOTNET\obj\Debug\CLOUDINARYDOTNET.Form2.resources
+C:\Users\smsi\source\repos\CLOUDINARYDOTNET\CLOUDINARYDOTNET\bin\Debug\CloudinaryDotNet.dll
+C:\Users\smsi\source\repos\CLOUDINARYDOTNET\CLOUDINARYDOTNET\bin\Debug\Newtonsoft.Json.dll
