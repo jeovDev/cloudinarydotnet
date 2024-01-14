@@ -15,9 +15,9 @@ namespace CLOUDINARYDOTNET
     {
 
         public Cloudinary cloudinary;
-        public const string CLOUD_NAME = "jeovdev";
-        public const string API_KEY = "751447631666916";
-        public const string API_SECRET = "UYu65tHoC872hEB_Kg_OnS7ArA0";
+        public const string CLOUD_NAME = "*****";
+        public const string API_KEY = "*****";
+        public const string API_SECRET = "******";
         public string imagePath,publicid,link;
         public string connstring = "server=localhost;user id=root;password=admin;database=cloudinary;sslmode=none";
         public Form1()
@@ -212,20 +212,6 @@ namespace CLOUDINARYDOTNET
 
             }
         }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
         #endregion
         private void Form1_Load(object sender, EventArgs e)
